@@ -11,16 +11,20 @@ Florian Mayer e01525689
 
 ## Data collected
 
-### inflation.csv:
-* column "DATE": Year of inflation entry in the date format: yyyy-mm-dd (type: factor)
+### inflation.csv
+* column "DATE": Year of the inflation entry in the date format: yyyy-mm-dd (type: factor)
 * column "FPCPITOTLZGUSA": inflation of the consumer prices in percent compared to the last year (type: numeric)
 
-### FEDFUNDS.csv:
-* column "DATE": Year of inflation entry in the date format: yyyy-mm-dd (type: factor)
+### FEDFUNDS.csv
+* column "DATE": Year of the federal funds rate entry in the date format: yyyy-mm-dd (type: factor)
 * column "FEDFUNDS": Federal funds rate in percent (type: numeric)
 
-### output_gap.csv:
-* column "DATE": Year of inflation entry in the date format: yyyy-mm-dd (type: factor)
+### output_gap.csv
+* column "DATE": Year of output gap entry in the date format: yyyy-mm-dd (type: factor)
 * column "GDPC2_GDPPOT": output gap in percent which is calculated by: 100*(Real Gross Domestic Product - Real Potential Gross Domestic Product) / Real Potential Gross Domestic Product
 
 ## Data produced
+
+### taylor.csv
+* column "Year": Year of taylor entry in the date format: yyyy-mm-dd (type: factor)
+* column "Taylor": nominal interest rate suggested by the Taylor rule in percent
