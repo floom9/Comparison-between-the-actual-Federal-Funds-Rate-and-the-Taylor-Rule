@@ -7,3 +7,5 @@ The Federal Open Market Committee (FOMC) meets eight times a year to determine t
 The federal funds rate is the central interest rate in the U.S. financial market. It influences other interest rates such as the prime rate, which is the rate banks charge their customers with higher credit ratings. Additionally, the federal funds rate indirectly influences longer- term interest rates such as mortgages, loans, and savings, all of which are very important to consumer wealth and confidence.
 
 Downloaded from Board of Governors of the Federal Reserve System (US), Effective Federal Funds Rate [FEDFUNDS], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/FEDFUNDS, März 22, 2021 with the parameters: annual, 1977-2017
+
+Intellectual property of the Federal Reserve Bank of St. Louis
