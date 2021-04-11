@@ -9,20 +9,6 @@ Florian Mayer e01525689
 * Set up a folder with Comparison_Taylor_Rule_Federal_Funds_Rate.R, FEDFUNDS.csv, inflation.csv and output_gap.csv
 * execute Comparison_Taylor_Rule_Federal_Funds_Rate.R in RStudio
 
-## Data collected
-
-### inflation.csv
-* column "DATE": Year of the inflation entry in the date format: yyyy-mm-dd (type: factor)
-* column "FPCPITOTLZGUSA": inflation of the consumer prices in percent compared to the last year (type: numeric)
-
-### FEDFUNDS.csv
-* column "DATE": Year of the federal funds rate entry in the date format: yyyy-mm-dd (type: factor)
-* column "FEDFUNDS": Federal funds rate in percent (type: numeric)
-
-### output_gap.csv
-* column "DATE": Year of output gap entry in the date format: yyyy-mm-dd (type: factor)
-* column "GDPC2_GDPPOT": output gap in percent which is calculated by: 100*(Real Gross Domestic Product - Real Potential Gross Domestic Product) / Real Potential Gross Domestic Product
-
 ## Data produced
 
 ### taylor.csv
